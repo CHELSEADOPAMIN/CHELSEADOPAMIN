@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8)
