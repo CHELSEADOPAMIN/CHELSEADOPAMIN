@@ -2,7 +2,7 @@
 
 <!--
 **CHELSEADOPAMIN/CHELSEADOPAMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=default
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
