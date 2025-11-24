@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AE2C33&width=435&lines=Take+a+simple+idea+and+take+it+seriously.)](https://git.io/typing-svg)
 
 <!--
 **CHELSEADOPAMIN/CHELSEADOPAMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
