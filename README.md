@@ -1,19 +1,40 @@
 <!--
 **CHELSEADOPAMIN/CHELSEADOPAMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE81C3&width=500&lines=Take+a+simple+idea+and+take+it+seriously)](https://git.io/typing-svg)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHELSEADOPAMIN&theme=omni)
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE81C3&width=500&lines=Take+a+simple+idea+and+take+it+seriously"
+    />
+  </a>
+</p>
+
+<!-- Profile details（大卡） -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=omni"
+    width="820"
+  />
+</p>
+
+<!-- 倒数第 4 个：单独一行，对齐下面 -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni"
+    height="180"
+  />
+</p>
+
+<!-- 最后三个：同一行 -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHELSEADOPAMIN&theme=omni"
+    height="180"
+  />
+</p>
