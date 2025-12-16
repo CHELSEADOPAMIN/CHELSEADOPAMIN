@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<!-- Profile details（大卡） -->
+
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=omni"
@@ -19,15 +19,7 @@
   />
 </p>
 
-<!-- 倒数第 4 个：单独一行，对齐下面 -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni"
-    height="180"
-  />
-</p>
 
-<!-- 最后三个：同一行 -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8"
@@ -35,6 +27,10 @@
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHELSEADOPAMIN&theme=omni"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni"
     height="180"
   />
 </p>
