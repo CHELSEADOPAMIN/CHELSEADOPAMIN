@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/CHELSEADOPAMIN/github-readme-activity-graph)
+[![CHELSEADOPAMIN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHELSEADOPAMIN)](https://github.com/CHELSEADOPAMIN/github-readme-activity-graph)
