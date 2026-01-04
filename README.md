@@ -10,30 +10,14 @@
     />
   </a>
 </p>
-
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=omni" alt="Profile Details">
+</p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHELSEADOPAMIN&theme=omni"
-    width="820"
-  />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8" alt="Repos per Language">
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHELSEADOPAMIN&theme=omni" alt="Stats">
+  <img width="32.5%"  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni" alt="Productive Time">
 </p>
 
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8"
-    height="180"
-    weight="250"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHELSEADOPAMIN&theme=omni"
-    height="180"
-    weight="250"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni"
-    height="180"
-    weight="250"
-  />
-</p>
