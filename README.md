@@ -24,16 +24,16 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CHELSEADOPAMIN&theme=omni&utcOffset=8"
     height="180"
-    weight="270"
+    weight="250"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHELSEADOPAMIN&theme=omni"
     height="180"
-    weight="270"
+    weight="250"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CHELSEADOPAMIN&theme=omni"
     height="180"
-    weight="270"
+    weight="250"
   />
 </p>
